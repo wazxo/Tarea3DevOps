@@ -1,0 +1,14 @@
+{
+  "name": "tarea-3",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba unitaria",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
