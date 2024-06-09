@@ -1,1 +1,5 @@
-console.log("¡Hola Mundo!");
+function helloWorld() {
+  return "¡Hola Mundo!";
+}
+
+module.exports = helloWorld;
